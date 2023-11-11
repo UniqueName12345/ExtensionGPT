@@ -1,2 +1,2 @@
-# FabriGPT
-An AI-based GUI Minecraft Fabric mod maker.
+# ExtensionGPT
+Generates Turbowarp / Scratch 3.0 extensions.
