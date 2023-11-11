@@ -1,0 +1,2 @@
+tkinter
+git+https://github.com/huggingface/hfapi/
